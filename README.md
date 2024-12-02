@@ -1,4 +1,4 @@
 # Blockchain
 This repository is used for practices of Blockchain projects.
 The first peoject is a simple blockchain instance using POW consensus mechanisms.
-It's used for main branch.
+It's used for pull request test.
